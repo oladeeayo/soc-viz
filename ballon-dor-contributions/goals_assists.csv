@@ -1,0 +1,368 @@
+player,date,team,home_away,opponent,competition,event_type,minute,score,sofa_event_id,source_url,is_friendly,opponent_kind,opponent_fifa_rank,opponent_elo,opponent_rank
+Erling Haaland,2025-08-16,Manchester City,away,Wolverhampton,Premier League,goal,34,0-4,14025050,https://www.sofascore.com/football/match/14025050,false,club,,1711.0,1711.0
+Erling Haaland,2025-08-16,Manchester City,away,Wolverhampton,Premier League,goal,61,0-4,14025050,https://www.sofascore.com/football/match/14025050,false,club,,1711.0,1711.0
+Erling Haaland,2025-08-31,Manchester City,away,Brighton & Hove Albion,Premier League,goal,34,2-1,14025094,https://www.sofascore.com/football/match/14025094,false,club,,1897.0,1897.0
+Erling Haaland,2025-09-04,Norway,home,Finland,International Friendly Games,goal,17,1-0,13888416,https://www.sofascore.com/football/match/13888416,true,country,75,,75
+Erling Haaland,2025-09-09,Norway,home,Moldova,World Cup Qual. UEFA,assist,6,11-1,13233577,https://www.sofascore.com/football/match/13233577,false,country,158,,158
+Erling Haaland,2025-09-09,Norway,home,Moldova,World Cup Qual. UEFA,goal,11,11-1,13233577,https://www.sofascore.com/football/match/13233577,false,country,158,,158
+Erling Haaland,2025-09-09,Norway,home,Moldova,World Cup Qual. UEFA,goal,36,11-1,13233577,https://www.sofascore.com/football/match/13233577,false,country,158,,158
+Erling Haaland,2025-09-09,Norway,home,Moldova,World Cup Qual. UEFA,goal,43,11-1,13233577,https://www.sofascore.com/football/match/13233577,false,country,158,,158
+Erling Haaland,2025-09-09,Norway,home,Moldova,World Cup Qual. UEFA,goal,52,11-1,13233577,https://www.sofascore.com/football/match/13233577,false,country,158,,158
+Erling Haaland,2025-09-09,Norway,home,Moldova,World Cup Qual. UEFA,goal,83,11-1,13233577,https://www.sofascore.com/football/match/13233577,false,country,158,,158
+Erling Haaland,2025-09-09,Norway,home,Moldova,World Cup Qual. UEFA,assist,90+1,11-1,13233577,https://www.sofascore.com/football/match/13233577,false,country,158,,158
+Erling Haaland,2025-09-14,Manchester City,home,Manchester United,Premier League,goal,53,3-0,14025142,https://www.sofascore.com/football/match/14025142,false,club,,1871.0,1871.0
+Erling Haaland,2025-09-14,Manchester City,home,Manchester United,Premier League,goal,68,3-0,14025142,https://www.sofascore.com/football/match/14025142,false,club,,1871.0,1871.0
+Erling Haaland,2025-09-18,Manchester City,home,SSC Napoli,UEFA Champions League,goal,56,2-0,14566664,https://www.sofascore.com/football/match/14566664,false,club,,1822.0,1822.0
+Erling Haaland,2025-09-21,Manchester City,away,Arsenal,Premier League,goal,9,1-1,14025154,https://www.sofascore.com/football/match/14025154,false,club,,2045.0,2045.0
+Erling Haaland,2025-09-27,Manchester City,home,Burnley,Premier League,assist,61,5-1,14025199,https://www.sofascore.com/football/match/14025199,false,club,,1646.0,1646.0
+Erling Haaland,2025-09-27,Manchester City,home,Burnley,Premier League,goal,90+3,5-1,14025199,https://www.sofascore.com/football/match/14025199,false,club,,1646.0,1646.0
+Erling Haaland,2025-09-27,Manchester City,home,Burnley,Premier League,goal,90,5-1,14025199,https://www.sofascore.com/football/match/14025199,false,club,,1646.0,1646.0
+Erling Haaland,2025-10-01,Manchester City,away,AS Monaco,UEFA Champions League,goal,15,2-2,14566925,https://www.sofascore.com/football/match/14566925,false,club,,1802.0,1802.0
+Erling Haaland,2025-10-01,Manchester City,away,AS Monaco,UEFA Champions League,goal,44,2-2,14566925,https://www.sofascore.com/football/match/14566925,false,club,,1802.0,1802.0
+Erling Haaland,2025-10-05,Manchester City,away,Brentford,Premier League,goal,9,0-1,14025219,https://www.sofascore.com/football/match/14025219,false,club,,1863.0,1863.0
+Erling Haaland,2025-10-11,Norway,home,Israel,World Cup Qual. UEFA,goal,27,5-0,13233606,https://www.sofascore.com/football/match/13233606,false,country,77,,77
+Erling Haaland,2025-10-11,Norway,home,Israel,World Cup Qual. UEFA,goal,63,5-0,13233606,https://www.sofascore.com/football/match/13233606,false,country,77,,77
+Erling Haaland,2025-10-11,Norway,home,Israel,World Cup Qual. UEFA,goal,72,5-0,13233606,https://www.sofascore.com/football/match/13233606,false,country,77,,77
+Erling Haaland,2025-10-18,Manchester City,home,Everton,Premier League,goal,58,2-0,14025243,https://www.sofascore.com/football/match/14025243,false,club,,1815.0,1815.0
+Erling Haaland,2025-10-18,Manchester City,home,Everton,Premier League,goal,63,2-0,14025243,https://www.sofascore.com/football/match/14025243,false,club,,1815.0,1815.0
+Erling Haaland,2025-10-21,Manchester City,away,Villarreal,UEFA Champions League,goal,17,0-2,14566781,https://www.sofascore.com/football/match/14566781,false,club,,1805.0,1805.0
+Erling Haaland,2025-11-02,Manchester City,home,Bournemouth,Premier League,goal,17,3-1,14025283,https://www.sofascore.com/football/match/14025283,false,club,,1853.0,1853.0
+Erling Haaland,2025-11-02,Manchester City,home,Bournemouth,Premier League,goal,33,3-1,14025283,https://www.sofascore.com/football/match/14025283,false,club,,1853.0,1853.0
+Erling Haaland,2025-11-05,Manchester City,home,Borussia Dortmund,UEFA Champions League,goal,29,4-1,14566662,https://www.sofascore.com/football/match/14566662,false,club,,1889.0,1889.0
+Erling Haaland,2025-11-09,Manchester City,home,Liverpool FC,Premier League,goal,29,3-0,14025048,https://www.sofascore.com/football/match/14025048,false,club,,1932.0,1932.0
+Erling Haaland,2025-11-13,Norway,home,Estonia,World Cup Qual. UEFA,goal,56,4-1,13233650,https://www.sofascore.com/football/match/13233650,false,country,122,,122
+Erling Haaland,2025-11-13,Norway,home,Estonia,World Cup Qual. UEFA,goal,62,4-1,13233650,https://www.sofascore.com/football/match/13233650,false,country,122,,122
+Erling Haaland,2025-11-16,Norway,away,Italy,World Cup Qual. UEFA,goal,78,1-4,13233679,https://www.sofascore.com/football/match/13233679,false,country,15,,15
+Erling Haaland,2025-11-16,Norway,away,Italy,World Cup Qual. UEFA,goal,79,1-4,13233679,https://www.sofascore.com/football/match/13233679,false,country,15,,15
+Erling Haaland,2025-12-02,Manchester City,away,Fulham,Premier League,goal,17,4-5,14025135,https://www.sofascore.com/football/match/14025135,false,club,,1798.0,1798.0
+Erling Haaland,2025-12-02,Manchester City,away,Fulham,Premier League,assist,37,4-5,14025135,https://www.sofascore.com/football/match/14025135,false,club,,1798.0,1798.0
+Erling Haaland,2025-12-02,Manchester City,away,Fulham,Premier League,assist,48,4-5,14025135,https://www.sofascore.com/football/match/14025135,false,club,,1798.0,1798.0
+Erling Haaland,2025-12-10,Manchester City,away,Real Madrid,UEFA Champions League,goal,43,1-2,14566595,https://www.sofascore.com/football/match/14566595,false,club,,1980.0,1980.0
+Erling Haaland,2025-12-14,Manchester City,away,Crystal Palace,Premier League,goal,41,0-3,14025195,https://www.sofascore.com/football/match/14025195,false,club,,1825.0,1825.0
+Erling Haaland,2025-12-14,Manchester City,away,Crystal Palace,Premier League,goal,89,0-3,14025195,https://www.sofascore.com/football/match/14025195,false,club,,1825.0,1825.0
+Erling Haaland,2025-12-20,Manchester City,home,West Ham United,Premier League,goal,5,3-0,14025226,https://www.sofascore.com/football/match/14025226,false,club,,1779.0,1779.0
+Erling Haaland,2025-12-20,Manchester City,home,West Ham United,Premier League,assist,38,3-0,14025226,https://www.sofascore.com/football/match/14025226,false,club,,1779.0,1779.0
+Erling Haaland,2025-12-20,Manchester City,home,West Ham United,Premier League,goal,69,3-0,14025226,https://www.sofascore.com/football/match/14025226,false,club,,1779.0,1779.0
+Erling Haaland,2026-01-07,Manchester City,home,Brighton & Hove Albion,Premier League,goal,41,1-1,14025061,https://www.sofascore.com/football/match/14025061,false,club,,1897.0,1897.0
+Erling Haaland,2026-01-28,Manchester City,home,Galatasaray,UEFA Champions League,goal,10,2-0,14566665,https://www.sofascore.com/football/match/14566665,false,club,,1796.0,1796.0
+Erling Haaland,2026-02-01,Manchester City,away,Tottenham Hotspur,Premier League,assist,11,2-2,14025149,https://www.sofascore.com/football/match/14025149,false,club,,1799.0,1799.0
+Erling Haaland,2026-02-08,Manchester City,away,Liverpool FC,Premier League,assist,84,1-2,14025173,https://www.sofascore.com/football/match/14025173,false,club,,1932.0,1932.0
+Erling Haaland,2026-02-08,Manchester City,away,Liverpool FC,Premier League,goal,90+3,1-2,14025173,https://www.sofascore.com/football/match/14025173,false,club,,1932.0,1932.0
+Erling Haaland,2026-02-11,Manchester City,home,Fulham,Premier League,goal,39,3-0,14025212,https://www.sofascore.com/football/match/14025212,false,club,,1798.0,1798.0
+Erling Haaland,2026-02-21,Manchester City,home,Newcastle United,Premier League,assist,27,2-1,14024010,https://www.sofascore.com/football/match/14024010,false,club,,1865.0,1865.0
+Erling Haaland,2026-03-17,Manchester City,home,Real Madrid,UEFA Champions League,goal,41,1-2,15631365,https://www.sofascore.com/football/match/15631365,false,club,,1980.0,1980.0
+Erling Haaland,2026-04-04,Manchester City,home,Liverpool FC,FA Cup,goal,39,4-0,15697198,https://www.sofascore.com/football/match/15697198,false,club,,1932.0,1932.0
+Erling Haaland,2026-04-04,Manchester City,home,Liverpool FC,FA Cup,goal,45+2,4-0,15697198,https://www.sofascore.com/football/match/15697198,false,club,,1932.0,1932.0
+Erling Haaland,2026-04-04,Manchester City,home,Liverpool FC,FA Cup,goal,57,4-0,15697198,https://www.sofascore.com/football/match/15697198,false,club,,1932.0,1932.0
+Erling Haaland,2026-04-19,Manchester City,home,Arsenal,Premier League,goal,65,2-1,14025039,https://www.sofascore.com/football/match/14025039,false,club,,2045.0,2045.0
+Erling Haaland,2026-04-22,Manchester City,away,Burnley,Premier League,goal,5,0-1,14024003,https://www.sofascore.com/football/match/14024003,false,club,,1646.0,1646.0
+Erling Haaland,2026-05-04,Manchester City,away,Everton,Premier League,goal,83,3-3,14023930,https://www.sofascore.com/football/match/14023930,false,club,,1815.0,1815.0
+Erling Haaland,2026-05-09,Manchester City,home,Brentford,Premier League,goal,75,3-0,14023946,https://www.sofascore.com/football/match/14023946,false,club,,1863.0,1863.0
+Erling Haaland,2026-05-09,Manchester City,home,Brentford,Premier League,assist,90+2,3-0,14023946,https://www.sofascore.com/football/match/14023946,false,club,,1863.0,1863.0
+Erling Haaland,2026-05-16,Manchester City,away,Chelsea,FA Cup,assist,72,0-1,16074990,https://www.sofascore.com/football/match/16074990,false,club,,1895.0,1895.0
+Erling Haaland,2026-05-19,Manchester City,away,Bournemouth,Premier League,goal,90+5,1-1,14023936,https://www.sofascore.com/football/match/14023936,false,club,,1853.0,1853.0
+Erling Haaland,2026-06-16,Norway,away,Iraq,FIFA World Cup,goal,29,1-4,15186773,https://www.sofascore.com/football/match/15186773,false,country,63,,63
+Erling Haaland,2026-06-16,Norway,away,Iraq,FIFA World Cup,goal,43,1-4,15186773,https://www.sofascore.com/football/match/15186773,false,country,63,,63
+Erling Haaland,2026-06-23,Norway,home,Senegal,FIFA World Cup,goal,48,3-2,15186770,https://www.sofascore.com/football/match/15186770,false,country,18,,18
+Erling Haaland,2026-06-23,Norway,home,Senegal,FIFA World Cup,goal,58,3-2,15186770,https://www.sofascore.com/football/match/15186770,false,country,18,,18
+Erling Haaland,2026-06-30,Norway,away,Côte d'Ivoire,FIFA World Cup,goal,86,1-2,12812989,https://www.sofascore.com/football/match/12812989,false,country,29,,29
+Erling Haaland,2026-07-05,Norway,away,Brazil,FIFA World Cup,goal,79,1-2,12813006,https://www.sofascore.com/football/match/12813006,false,country,6,,6
+Erling Haaland,2026-07-05,Norway,away,Brazil,FIFA World Cup,goal,90,1-2,12813006,https://www.sofascore.com/football/match/12813006,false,country,6,,6
+Harry Kane,2025-08-16,FC Bayern München,away,VfB Stuttgart,Franz Beckenbauer Supercup,goal,18,1-2,13960991,https://www.sofascore.com/football/match/13960991,false,club,,1827.0,1827.0
+Harry Kane,2025-08-22,FC Bayern München,home,RB Leipzig,Bundesliga,goal,64,6-0,14056037,https://www.sofascore.com/football/match/14056037,false,club,,1829.0,1829.0
+Harry Kane,2025-08-22,FC Bayern München,home,RB Leipzig,Bundesliga,goal,74,6-0,14056037,https://www.sofascore.com/football/match/14056037,false,club,,1829.0,1829.0
+Harry Kane,2025-08-22,FC Bayern München,home,RB Leipzig,Bundesliga,goal,77,6-0,14056037,https://www.sofascore.com/football/match/14056037,false,club,,1829.0,1829.0
+Harry Kane,2025-08-27,FC Bayern München,away,SV Wehen Wiesbaden,DFB Pokal,goal,16,2-3,14015651,https://www.sofascore.com/football/match/14015651,false,club,,1463.0,1463.0
+Harry Kane,2025-08-27,FC Bayern München,away,SV Wehen Wiesbaden,DFB Pokal,goal,90+4,2-3,14015651,https://www.sofascore.com/football/match/14015651,false,club,,1463.0,1463.0
+Harry Kane,2025-08-30,FC Bayern München,away,FC Augsburg,Bundesliga,assist,28,2-3,14065075,https://www.sofascore.com/football/match/14065075,false,club,,1731.0,1731.0
+Harry Kane,2025-08-30,FC Bayern München,away,FC Augsburg,Bundesliga,assist,48,2-3,14065075,https://www.sofascore.com/football/match/14065075,false,club,,1731.0,1731.0
+Harry Kane,2025-09-09,England,away,Serbia,World Cup Qual. UEFA,goal,33,0-5,13233587,https://www.sofascore.com/football/match/13233587,false,country,44,,44
+Harry Kane,2025-09-13,FC Bayern München,home,Hamburger SV,Bundesliga,assist,9,5-0,14057801,https://www.sofascore.com/football/match/14057801,false,club,,1680.0,1680.0
+Harry Kane,2025-09-13,FC Bayern München,home,Hamburger SV,Bundesliga,goal,26,5-0,14057801,https://www.sofascore.com/football/match/14057801,false,club,,1680.0,1680.0
+Harry Kane,2025-09-13,FC Bayern München,home,Hamburger SV,Bundesliga,goal,62,5-0,14057801,https://www.sofascore.com/football/match/14057801,false,club,,1680.0,1680.0
+Harry Kane,2025-09-17,FC Bayern München,home,Chelsea,UEFA Champions League,goal,27,3-1,14566570,https://www.sofascore.com/football/match/14566570,false,club,,1895.0,1895.0
+Harry Kane,2025-09-17,FC Bayern München,home,Chelsea,UEFA Champions League,goal,63,3-1,14566570,https://www.sofascore.com/football/match/14566570,false,club,,1895.0,1895.0
+Harry Kane,2025-09-20,FC Bayern München,away,TSG Hoffenheim,Bundesliga,goal,44,1-4,14065096,https://www.sofascore.com/football/match/14065096,false,club,,1713.0,1713.0
+Harry Kane,2025-09-20,FC Bayern München,away,TSG Hoffenheim,Bundesliga,goal,48,1-4,14065096,https://www.sofascore.com/football/match/14065096,false,club,,1713.0,1713.0
+Harry Kane,2025-09-20,FC Bayern München,away,TSG Hoffenheim,Bundesliga,goal,77,1-4,14065096,https://www.sofascore.com/football/match/14065096,false,club,,1713.0,1713.0
+Harry Kane,2025-09-26,FC Bayern München,home,SV Werder Bremen,Bundesliga,goal,45,4-0,14065088,https://www.sofascore.com/football/match/14065088,false,club,,1694.0,1694.0
+Harry Kane,2025-09-26,FC Bayern München,home,SV Werder Bremen,Bundesliga,goal,65,4-0,14065088,https://www.sofascore.com/football/match/14065088,false,club,,1694.0,1694.0
+Harry Kane,2025-09-30,FC Bayern München,away,Pafos FC,UEFA Champions League,goal,15,1-5,14566965,https://www.sofascore.com/football/match/14566965,false,club,,1591.0,1591.0
+Harry Kane,2025-09-30,FC Bayern München,away,Pafos FC,UEFA Champions League,goal,34,1-5,14566965,https://www.sofascore.com/football/match/14566965,false,club,,1591.0,1591.0
+Harry Kane,2025-10-04,FC Bayern München,away,Eintracht Frankfurt,Bundesliga,goal,27,0-3,14065100,https://www.sofascore.com/football/match/14065100,false,club,,1736.0,1736.0
+Harry Kane,2025-10-14,England,away,Latvia,World Cup Qual. UEFA,goal,44,0-5,13233647,https://www.sofascore.com/football/match/13233647,false,country,143,,143
+Harry Kane,2025-10-14,England,away,Latvia,World Cup Qual. UEFA,goal,45+3,0-5,13233647,https://www.sofascore.com/football/match/13233647,false,country,143,,143
+Harry Kane,2025-10-18,FC Bayern München,home,Borussia Dortmund,Bundesliga,goal,22,2-1,14065109,https://www.sofascore.com/football/match/14065109,false,club,,1889.0,1889.0
+Harry Kane,2025-10-22,FC Bayern München,home,Club Brugge KV,UEFA Champions League,goal,14,4-0,14566571,https://www.sofascore.com/football/match/14566571,false,club,,1823.0,1823.0
+Harry Kane,2025-10-29,FC Bayern München,away,1. FC Köln,DFB Pokal,goal,38,1-4,14586192,https://www.sofascore.com/football/match/14586192,false,club,,1655.0,1655.0
+Harry Kane,2025-10-29,FC Bayern München,away,1. FC Köln,DFB Pokal,goal,64,1-4,14586192,https://www.sofascore.com/football/match/14586192,false,club,,1655.0,1655.0
+Harry Kane,2025-11-08,FC Bayern München,away,1. FC Union Berlin,Bundesliga,goal,90+3,2-2,14065143,https://www.sofascore.com/football/match/14065143,false,club,,1682.0,1682.0
+Harry Kane,2025-11-16,England,away,Albania,World Cup Qual. UEFA,goal,74,0-2,13233676,https://www.sofascore.com/football/match/13233676,false,country,66,,66
+Harry Kane,2025-11-16,England,away,Albania,World Cup Qual. UEFA,goal,82,0-2,13233676,https://www.sofascore.com/football/match/13233676,false,country,66,,66
+Harry Kane,2025-11-22,FC Bayern München,home,SC Freiburg,Bundesliga,goal,60,6-2,14065148,https://www.sofascore.com/football/match/14065148,false,club,,1794.0,1794.0
+Harry Kane,2025-12-03,FC Bayern München,away,1. FC Union Berlin,DFB Pokal,goal,24,2-3,14994252,https://www.sofascore.com/football/match/14994252,false,club,,1682.0,1682.0
+Harry Kane,2025-12-06,FC Bayern München,away,VfB Stuttgart,Bundesliga,goal,66,0-5,14065168,https://www.sofascore.com/football/match/14065168,false,club,,1827.0,1827.0
+Harry Kane,2025-12-06,FC Bayern München,away,VfB Stuttgart,Bundesliga,goal,82,0-5,14065168,https://www.sofascore.com/football/match/14065168,false,club,,1827.0,1827.0
+Harry Kane,2025-12-06,FC Bayern München,away,VfB Stuttgart,Bundesliga,goal,88,0-5,14065168,https://www.sofascore.com/football/match/14065168,false,club,,1827.0,1827.0
+Harry Kane,2025-12-14,FC Bayern München,home,1. FSV Mainz 05,Bundesliga,goal,87,2-2,14065174,https://www.sofascore.com/football/match/14065174,false,club,,1738.0,1738.0
+Harry Kane,2025-12-21,FC Bayern München,away,1. FC Heidenheim,Bundesliga,goal,90+2,0-4,14062150,https://www.sofascore.com/football/match/14062150,false,club,,1633.0,1633.0
+Harry Kane,2026-01-11,FC Bayern München,home,VfL Wolfsburg,Bundesliga,assist,68,8-1,14062145,https://www.sofascore.com/football/match/14062145,false,club,,1683.0,1683.0
+Harry Kane,2026-01-11,FC Bayern München,home,VfL Wolfsburg,Bundesliga,goal,69,8-1,14062145,https://www.sofascore.com/football/match/14062145,false,club,,1683.0,1683.0
+Harry Kane,2026-01-17,FC Bayern München,away,RB Leipzig,Bundesliga,goal,67,1-5,14062170,https://www.sofascore.com/football/match/14062170,false,club,,1829.0,1829.0
+Harry Kane,2026-01-21,FC Bayern München,home,Royale Union Saint-Gilloise,UEFA Champions League,goal,52,2-0,14566573,https://www.sofascore.com/football/match/14566573,false,club,,1807.0,1807.0
+Harry Kane,2026-01-21,FC Bayern München,home,Royale Union Saint-Gilloise,UEFA Champions League,goal,55,2-0,14566573,https://www.sofascore.com/football/match/14566573,false,club,,1807.0,1807.0
+Harry Kane,2026-01-28,FC Bayern München,away,PSV Eindhoven,UEFA Champions League,goal,84,1-2,14566891,https://www.sofascore.com/football/match/14566891,false,club,,1784.0,1784.0
+Harry Kane,2026-01-31,FC Bayern München,away,Hamburger SV,Bundesliga,goal,42,2-2,14062191,https://www.sofascore.com/football/match/14062191,false,club,,1680.0,1680.0
+Harry Kane,2026-02-08,FC Bayern München,home,TSG Hoffenheim,Bundesliga,goal,20,5-1,14062188,https://www.sofascore.com/football/match/14062188,false,club,,1713.0,1713.0
+Harry Kane,2026-02-08,FC Bayern München,home,TSG Hoffenheim,Bundesliga,assist,45+2,5-1,14062188,https://www.sofascore.com/football/match/14062188,false,club,,1713.0,1713.0
+Harry Kane,2026-02-08,FC Bayern München,home,TSG Hoffenheim,Bundesliga,goal,45,5-1,14062188,https://www.sofascore.com/football/match/14062188,false,club,,1713.0,1713.0
+Harry Kane,2026-02-11,FC Bayern München,home,RB Leipzig,DFB Pokal,goal,64,2-0,15193712,https://www.sofascore.com/football/match/15193712,false,club,,1829.0,1829.0
+Harry Kane,2026-02-14,FC Bayern München,away,SV Werder Bremen,Bundesliga,goal,22,0-3,14062207,https://www.sofascore.com/football/match/14062207,false,club,,1694.0,1694.0
+Harry Kane,2026-02-14,FC Bayern München,away,SV Werder Bremen,Bundesliga,goal,25,0-3,14062207,https://www.sofascore.com/football/match/14062207,false,club,,1694.0,1694.0
+Harry Kane,2026-02-21,FC Bayern München,home,Eintracht Frankfurt,Bundesliga,goal,20,3-2,14062215,https://www.sofascore.com/football/match/14062215,false,club,,1736.0,1736.0
+Harry Kane,2026-02-21,FC Bayern München,home,Eintracht Frankfurt,Bundesliga,goal,68,3-2,14062215,https://www.sofascore.com/football/match/14062215,false,club,,1736.0,1736.0
+Harry Kane,2026-02-28,FC Bayern München,away,Borussia Dortmund,Bundesliga,goal,54,2-3,14062225,https://www.sofascore.com/football/match/14062225,false,club,,1889.0,1889.0
+Harry Kane,2026-02-28,FC Bayern München,away,Borussia Dortmund,Bundesliga,goal,70,2-3,14062225,https://www.sofascore.com/football/match/14062225,false,club,,1889.0,1889.0
+Harry Kane,2026-03-18,FC Bayern München,home,Atalanta,UEFA Champions League,goal,25,4-1,15631371,https://www.sofascore.com/football/match/15631371,false,club,,1812.0,1812.0
+Harry Kane,2026-03-18,FC Bayern München,home,Atalanta,UEFA Champions League,goal,54,4-1,15631371,https://www.sofascore.com/football/match/15631371,false,club,,1812.0,1812.0
+Harry Kane,2026-03-21,FC Bayern München,home,1. FC Union Berlin,Bundesliga,goal,49,4-0,14065193,https://www.sofascore.com/football/match/14065193,false,club,,1682.0,1682.0
+Harry Kane,2026-04-07,FC Bayern München,away,Real Madrid,UEFA Champions League,goal,46,1-2,15632084,https://www.sofascore.com/football/match/15632084,false,club,,1980.0,1980.0
+Harry Kane,2026-04-15,FC Bayern München,home,Real Madrid,UEFA Champions League,goal,38,4-3,15632088,https://www.sofascore.com/football/match/15632088,false,club,,1980.0,1980.0
+Harry Kane,2026-04-15,FC Bayern München,home,Real Madrid,UEFA Champions League,assist,90+4,4-3,15632088,https://www.sofascore.com/football/match/15632088,false,club,,1980.0,1980.0
+Harry Kane,2026-04-19,FC Bayern München,home,VfB Stuttgart,Bundesliga,goal,52,4-2,14065222,https://www.sofascore.com/football/match/14065222,false,club,,1827.0,1827.0
+Harry Kane,2026-04-22,FC Bayern München,away,Bayer 04 Leverkusen,DFB Pokal,goal,22,0-2,15600443,https://www.sofascore.com/football/match/15600443,false,club,,1882.0,1882.0
+Harry Kane,2026-04-25,FC Bayern München,away,1. FSV Mainz 05,Bundesliga,goal,83,3-4,14065235,https://www.sofascore.com/football/match/14065235,false,club,,1738.0,1738.0
+Harry Kane,2026-04-28,FC Bayern München,away,Paris Saint-Germain,UEFA Champions League,goal,17,5-4,15632632,https://www.sofascore.com/football/match/15632632,false,club,,1969.0,1969.0
+Harry Kane,2026-04-28,FC Bayern München,away,Paris Saint-Germain,UEFA Champions League,assist,68,5-4,15632632,https://www.sofascore.com/football/match/15632632,false,club,,1969.0,1969.0
+Harry Kane,2026-05-06,FC Bayern München,home,Paris Saint-Germain,UEFA Champions League,goal,90+4,1-1,15632634,https://www.sofascore.com/football/match/15632634,false,club,,1969.0,1969.0
+Harry Kane,2026-05-16,FC Bayern München,home,1. FC Köln,Bundesliga,goal,10,5-1,14065556,https://www.sofascore.com/football/match/14065556,false,club,,1655.0,1655.0
+Harry Kane,2026-05-16,FC Bayern München,home,1. FC Köln,Bundesliga,goal,13,5-1,14065556,https://www.sofascore.com/football/match/14065556,false,club,,1655.0,1655.0
+Harry Kane,2026-05-16,FC Bayern München,home,1. FC Köln,Bundesliga,goal,69,5-1,14065556,https://www.sofascore.com/football/match/14065556,false,club,,1655.0,1655.0
+Harry Kane,2026-05-23,FC Bayern München,home,VfB Stuttgart,DFB Pokal,goal,55,3-0,16060976,https://www.sofascore.com/football/match/16060976,false,club,,1827.0,1827.0
+Harry Kane,2026-05-23,FC Bayern München,home,VfB Stuttgart,DFB Pokal,goal,80,3-0,16060976,https://www.sofascore.com/football/match/16060976,false,club,,1827.0,1827.0
+Harry Kane,2026-05-23,FC Bayern München,home,VfB Stuttgart,DFB Pokal,goal,90+2,3-0,16060976,https://www.sofascore.com/football/match/16060976,false,club,,1827.0,1827.0
+Harry Kane,2026-06-06,England,home,New Zealand,International Friendly Games,goal,45+2,1-0,15926544,https://www.sofascore.com/football/match/15926544,true,country,88,,88
+Harry Kane,2026-06-17,England,home,Croatia,FIFA World Cup,goal,12,4-2,15186504,https://www.sofascore.com/football/match/15186504,false,country,14,,14
+Harry Kane,2026-06-17,England,home,Croatia,FIFA World Cup,goal,42,4-2,15186504,https://www.sofascore.com/football/match/15186504,false,country,14,,14
+Harry Kane,2026-06-27,England,away,Panama,FIFA World Cup,goal,67,0-2,15186676,https://www.sofascore.com/football/match/15186676,false,country,46,,46
+Harry Kane,2026-07-01,England,home,DR Congo,FIFA World Cup,goal,75,2-1,12813020,https://www.sofascore.com/football/match/12813020,false,country,40,,40
+Harry Kane,2026-07-01,England,home,DR Congo,FIFA World Cup,goal,86,2-1,12813020,https://www.sofascore.com/football/match/12813020,false,country,40,,40
+Harry Kane,2026-07-06,England,away,Mexico,FIFA World Cup,assist,38,2-3,12813007,https://www.sofascore.com/football/match/12813007,false,country,10,,10
+Harry Kane,2026-07-06,England,away,Mexico,FIFA World Cup,goal,60,2-3,12813007,https://www.sofascore.com/football/match/12813007,false,country,10,,10
+Kylian Mbappé,2025-08-19,Real Madrid,home,Osasuna,LaLiga,goal,51,1-0,14082856,https://www.sofascore.com/football/match/14082856,false,club,,1714.0,1714.0
+Kylian Mbappé,2025-08-24,Real Madrid,away,Real Oviedo,LaLiga,goal,37,0-3,14082862,https://www.sofascore.com/football/match/14082862,false,club,,1646.0,1646.0
+Kylian Mbappé,2025-08-24,Real Madrid,away,Real Oviedo,LaLiga,goal,83,0-3,14082862,https://www.sofascore.com/football/match/14082862,false,club,,1646.0,1646.0
+Kylian Mbappé,2025-09-05,France,away,Ukraine,World Cup Qual. UEFA,goal,82,0-2,13233466,https://www.sofascore.com/football/match/13233466,false,country,36,,36
+Kylian Mbappé,2025-09-09,France,home,Iceland,World Cup Qual. UEFA,goal,45,2-1,13233582,https://www.sofascore.com/football/match/13233582,false,country,73,,73
+Kylian Mbappé,2025-09-09,France,home,Iceland,World Cup Qual. UEFA,assist,62,2-1,13233582,https://www.sofascore.com/football/match/13233582,false,country,73,,73
+Kylian Mbappé,2025-09-13,Real Madrid,away,Real Sociedad,LaLiga,goal,12,1-2,14083256,https://www.sofascore.com/football/match/14083256,false,club,,1776.0,1776.0
+Kylian Mbappé,2025-09-13,Real Madrid,away,Real Sociedad,LaLiga,assist,44,1-2,14083256,https://www.sofascore.com/football/match/14083256,false,club,,1776.0,1776.0
+Kylian Mbappé,2025-09-16,Real Madrid,home,Olympique de Marseille,UEFA Champions League,goal,28,2-1,14566597,https://www.sofascore.com/football/match/14566597,false,club,,1759.0,1759.0
+Kylian Mbappé,2025-09-16,Real Madrid,home,Olympique de Marseille,UEFA Champions League,goal,81,2-1,14566597,https://www.sofascore.com/football/match/14566597,false,club,,1759.0,1759.0
+Kylian Mbappé,2025-09-20,Real Madrid,home,Espanyol,LaLiga,goal,47,2-0,14083333,https://www.sofascore.com/football/match/14083333,false,club,,1696.0,1696.0
+Kylian Mbappé,2025-09-23,Real Madrid,away,Levante UD,LaLiga,goal,64,1-4,14083426,https://www.sofascore.com/football/match/14083426,false,club,,1710.0,1710.0
+Kylian Mbappé,2025-09-23,Real Madrid,away,Levante UD,LaLiga,goal,66,1-4,14083426,https://www.sofascore.com/football/match/14083426,false,club,,1710.0,1710.0
+Kylian Mbappé,2025-09-27,Real Madrid,away,Atlético Madrid,LaLiga,goal,25,5-2,14083541,https://www.sofascore.com/football/match/14083541,false,club,,1916.0,1916.0
+Kylian Mbappé,2025-09-30,Real Madrid,away,FC Kairat Almaty,UEFA Champions League,goal,25,0-5,14566983,https://www.sofascore.com/football/match/14566983,false,club,,1454.0,1454.0
+Kylian Mbappé,2025-09-30,Real Madrid,away,FC Kairat Almaty,UEFA Champions League,goal,52,0-5,14566983,https://www.sofascore.com/football/match/14566983,false,club,,1454.0,1454.0
+Kylian Mbappé,2025-09-30,Real Madrid,away,FC Kairat Almaty,UEFA Champions League,goal,73,0-5,14566983,https://www.sofascore.com/football/match/14566983,false,club,,1454.0,1454.0
+Kylian Mbappé,2025-10-04,Real Madrid,home,Villarreal,LaLiga,assist,47,3-1,14083620,https://www.sofascore.com/football/match/14083620,false,club,,1805.0,1805.0
+Kylian Mbappé,2025-10-04,Real Madrid,home,Villarreal,LaLiga,goal,81,3-1,14083620,https://www.sofascore.com/football/match/14083620,false,club,,1805.0,1805.0
+Kylian Mbappé,2025-10-10,France,home,Azerbaijan,World Cup Qual. UEFA,goal,45+2,3-0,13233602,https://www.sofascore.com/football/match/13233602,false,country,127,,127
+Kylian Mbappé,2025-10-10,France,home,Azerbaijan,World Cup Qual. UEFA,assist,69,3-0,13233602,https://www.sofascore.com/football/match/13233602,false,country,127,,127
+Kylian Mbappé,2025-10-19,Real Madrid,away,Getafe,LaLiga,goal,80,0-1,14083675,https://www.sofascore.com/football/match/14083675,false,club,,1699.0,1699.0
+Kylian Mbappé,2025-10-26,Real Madrid,home,FC Barcelona,LaLiga,goal,22,2-1,14083729,https://www.sofascore.com/football/match/14083729,false,club,,2032.0,2032.0
+Kylian Mbappé,2025-11-01,Real Madrid,home,Valencia,LaLiga,goal,19,4-0,14083099,https://www.sofascore.com/football/match/14083099,false,club,,1743.0,1743.0
+Kylian Mbappé,2025-11-01,Real Madrid,home,Valencia,LaLiga,goal,31,4-0,14083099,https://www.sofascore.com/football/match/14083099,false,club,,1743.0,1743.0
+Kylian Mbappé,2025-11-13,France,home,Ukraine,World Cup Qual. UEFA,goal,55,4-0,13233655,https://www.sofascore.com/football/match/13233655,false,country,36,,36
+Kylian Mbappé,2025-11-13,France,home,Ukraine,World Cup Qual. UEFA,goal,83,4-0,13233655,https://www.sofascore.com/football/match/13233655,false,country,36,,36
+Kylian Mbappé,2025-11-13,France,home,Ukraine,World Cup Qual. UEFA,assist,88,4-0,13233655,https://www.sofascore.com/football/match/13233655,false,country,36,,36
+Kylian Mbappé,2025-11-23,Real Madrid,away,Elche,LaLiga,assist,87,2-2,14083124,https://www.sofascore.com/football/match/14083124,false,club,,1703.0,1703.0
+Kylian Mbappé,2025-11-26,Real Madrid,away,Olympiacos FC,UEFA Champions League,goal,22,3-4,14566865,https://www.sofascore.com/football/match/14566865,false,club,,1733.0,1733.0
+Kylian Mbappé,2025-11-26,Real Madrid,away,Olympiacos FC,UEFA Champions League,goal,24,3-4,14566865,https://www.sofascore.com/football/match/14566865,false,club,,1733.0,1733.0
+Kylian Mbappé,2025-11-26,Real Madrid,away,Olympiacos FC,UEFA Champions League,goal,29,3-4,14566865,https://www.sofascore.com/football/match/14566865,false,club,,1733.0,1733.0
+Kylian Mbappé,2025-11-26,Real Madrid,away,Olympiacos FC,UEFA Champions League,goal,59,3-4,14566865,https://www.sofascore.com/football/match/14566865,false,club,,1733.0,1733.0
+Kylian Mbappé,2025-11-30,Real Madrid,away,Girona FC,LaLiga,goal,67,1-1,14083139,https://www.sofascore.com/football/match/14083139,false,club,,1720.0,1720.0
+Kylian Mbappé,2025-12-03,Real Madrid,away,Athletic Club,LaLiga,goal,7,0-3,14083210,https://www.sofascore.com/football/match/14083210,false,club,,1766.0,1766.0
+Kylian Mbappé,2025-12-03,Real Madrid,away,Athletic Club,LaLiga,assist,42,0-3,14083210,https://www.sofascore.com/football/match/14083210,false,club,,1766.0,1766.0
+Kylian Mbappé,2025-12-03,Real Madrid,away,Athletic Club,LaLiga,goal,59,0-3,14083210,https://www.sofascore.com/football/match/14083210,false,club,,1766.0,1766.0
+Kylian Mbappé,2025-12-14,Real Madrid,away,Deportivo Alavés,LaLiga,goal,24,1-2,14083164,https://www.sofascore.com/football/match/14083164,false,club,,1721.0,1721.0
+Kylian Mbappé,2025-12-17,Real Madrid,away,CF Talavera,Copa del Rey,goal,41,2-3,15200524,https://www.sofascore.com/football/match/15200524,false,club,,1481.0,1481.0
+Kylian Mbappé,2025-12-17,Real Madrid,away,CF Talavera,Copa del Rey,goal,88,2-3,15200524,https://www.sofascore.com/football/match/15200524,false,club,,1481.0,1481.0
+Kylian Mbappé,2025-12-20,Real Madrid,home,Sevilla,LaLiga,goal,86,2-0,14083185,https://www.sofascore.com/football/match/14083185,false,club,,1728.0,1728.0
+Kylian Mbappé,2026-01-17,Real Madrid,home,Levante UD,LaLiga,goal,58,2-0,14083238,https://www.sofascore.com/football/match/14083238,false,club,,1710.0,1710.0
+Kylian Mbappé,2026-01-20,Real Madrid,home,AS Monaco,UEFA Champions League,goal,5,6-1,14566598,https://www.sofascore.com/football/match/14566598,false,club,,1802.0,1802.0
+Kylian Mbappé,2026-01-20,Real Madrid,home,AS Monaco,UEFA Champions League,goal,26,6-1,14566598,https://www.sofascore.com/football/match/14566598,false,club,,1802.0,1802.0
+Kylian Mbappé,2026-01-24,Real Madrid,away,Villarreal,LaLiga,goal,47,0-2,14083186,https://www.sofascore.com/football/match/14083186,false,club,,1805.0,1805.0
+Kylian Mbappé,2026-01-24,Real Madrid,away,Villarreal,LaLiga,goal,90+4,0-2,14083186,https://www.sofascore.com/football/match/14083186,false,club,,1805.0,1805.0
+Kylian Mbappé,2026-01-28,Real Madrid,away,Benfica,UEFA Champions League,goal,30,4-2,14566735,https://www.sofascore.com/football/match/14566735,false,club,,1859.0,1859.0
+Kylian Mbappé,2026-01-28,Real Madrid,away,Benfica,UEFA Champions League,goal,58,4-2,14566735,https://www.sofascore.com/football/match/14566735,false,club,,1859.0,1859.0
+Kylian Mbappé,2026-02-01,Real Madrid,home,Rayo Vallecano,LaLiga,goal,90+10,2-1,14083254,https://www.sofascore.com/football/match/14083254,false,club,,1746.0,1746.0
+Kylian Mbappé,2026-02-08,Real Madrid,away,Valencia,LaLiga,goal,90+1,0-2,14083327,https://www.sofascore.com/football/match/14083327,false,club,,1743.0,1743.0
+Kylian Mbappé,2026-02-17,Real Madrid,away,Benfica,UEFA Champions League,assist,50,0-1,15452742,https://www.sofascore.com/football/match/15452742,false,club,,1859.0,1859.0
+Kylian Mbappé,2026-03-26,France,away,Brazil,International Friendly Games,goal,32,1-2,15341366,https://www.sofascore.com/football/match/15341366,true,country,6,,6
+Kylian Mbappé,2026-04-07,Real Madrid,home,FC Bayern München,UEFA Champions League,goal,74,1-2,15632084,https://www.sofascore.com/football/match/15632084,false,club,,2038.0,2038.0
+Kylian Mbappé,2026-04-15,Real Madrid,away,FC Bayern München,UEFA Champions League,goal,42,4-3,15632088,https://www.sofascore.com/football/match/15632088,false,club,,2038.0,2038.0
+Kylian Mbappé,2026-04-21,Real Madrid,home,Deportivo Alavés,LaLiga,goal,30,2-1,14083295,https://www.sofascore.com/football/match/14083295,false,club,,1721.0,1721.0
+Kylian Mbappé,2026-05-14,Real Madrid,home,Real Oviedo,LaLiga,assist,80,2-0,14083649,https://www.sofascore.com/football/match/14083649,false,club,,1646.0,1646.0
+Kylian Mbappé,2026-05-23,Real Madrid,home,Athletic Club,LaLiga,goal,51,4-2,14083731,https://www.sofascore.com/football/match/14083731,false,club,,1766.0,1766.0
+Kylian Mbappé,2026-06-16,France,home,Senegal,FIFA World Cup,goal,66,3-1,15186501,https://www.sofascore.com/football/match/15186501,false,country,18,,18
+Kylian Mbappé,2026-06-16,France,home,Senegal,FIFA World Cup,goal,90+6,3-1,15186501,https://www.sofascore.com/football/match/15186501,false,country,18,,18
+Kylian Mbappé,2026-06-22,France,home,Iraq,FIFA World Cup,goal,14,3-0,15186769,https://www.sofascore.com/football/match/15186769,false,country,63,,63
+Kylian Mbappé,2026-06-22,France,home,Iraq,FIFA World Cup,goal,54,3-0,15186769,https://www.sofascore.com/football/match/15186769,false,country,63,,63
+Kylian Mbappé,2026-06-26,France,away,Norway,FIFA World Cup,assist,7,1-4,15186537,https://www.sofascore.com/football/match/15186537,false,country,19,,19
+Kylian Mbappé,2026-06-26,France,away,Norway,FIFA World Cup,assist,20,1-4,15186537,https://www.sofascore.com/football/match/15186537,false,country,19,,19
+Kylian Mbappé,2026-06-30,France,home,Sweden,FIFA World Cup,goal,45,3-0,12812995,https://www.sofascore.com/football/match/12812995,false,country,34,,34
+Kylian Mbappé,2026-06-30,France,home,Sweden,FIFA World Cup,goal,74,3-0,12812995,https://www.sofascore.com/football/match/12812995,false,country,34,,34
+Kylian Mbappé,2026-07-04,France,away,Paraguay,FIFA World Cup,goal,70,0-1,12813010,https://www.sofascore.com/football/match/12813010,false,country,33,,33
+Kylian Mbappé,2026-07-09,France,home,Morocco,FIFA World Cup,goal,60,2-0,12813016,https://www.sofascore.com/football/match/12813016,false,country,7,,7
+Kylian Mbappé,2026-07-09,France,home,Morocco,FIFA World Cup,assist,66,2-0,12813016,https://www.sofascore.com/football/match/12813016,false,country,7,,7
+Kylian Mbappé,2026-07-18,France,home,England,FIFA World Cup,goal,48,4-6,12813003,https://www.sofascore.com/football/match/12813003,false,country,4,,4
+Kylian Mbappé,2026-07-18,France,home,England,FIFA World Cup,assist,54,4-6,12813003,https://www.sofascore.com/football/match/12813003,false,country,4,,4
+Kylian Mbappé,2026-07-18,France,home,England,FIFA World Cup,goal,66,4-6,12813003,https://www.sofascore.com/football/match/12813003,false,country,4,,4
+Lamine Yamal,2025-08-16,FC Barcelona,away,Mallorca,LaLiga,assist,7,0-3,14082855,https://www.sofascore.com/football/match/14082855,false,club,,1720.0,1720.0
+Lamine Yamal,2025-08-16,FC Barcelona,away,Mallorca,LaLiga,goal,90+4,0-3,14082855,https://www.sofascore.com/football/match/14082855,false,club,,1720.0,1720.0
+Lamine Yamal,2025-08-23,FC Barcelona,away,Levante UD,LaLiga,assist,49,2-3,14082865,https://www.sofascore.com/football/match/14082865,false,club,,1710.0,1710.0
+Lamine Yamal,2025-08-31,FC Barcelona,away,Rayo Vallecano,LaLiga,goal,40,1-1,14083178,https://www.sofascore.com/football/match/14083178,false,club,,1746.0,1746.0
+Lamine Yamal,2025-09-04,Spain,away,Bulgaria,World Cup Qual. UEFA,assist,38,0-3,13233457,https://www.sofascore.com/football/match/13233457,false,country,90,,90
+Lamine Yamal,2025-09-07,Spain,away,Türkiye,World Cup Qual. UEFA,assist,53,0-6,13233482,https://www.sofascore.com/football/match/13233482,false,country,31,,31
+Lamine Yamal,2025-09-07,Spain,away,Türkiye,World Cup Qual. UEFA,assist,57,0-6,13233482,https://www.sofascore.com/football/match/13233482,false,country,31,,31
+Lamine Yamal,2025-09-28,FC Barcelona,home,Real Sociedad,LaLiga,assist,59,2-1,14083553,https://www.sofascore.com/football/match/14083553,false,club,,1776.0,1776.0
+Lamine Yamal,2025-10-18,FC Barcelona,home,Girona FC,LaLiga,assist,13,2-1,14083664,https://www.sofascore.com/football/match/14083664,false,club,,1720.0,1720.0
+Lamine Yamal,2025-10-21,FC Barcelona,home,Olympiacos FC,UEFA Champions League,assist,7,6-1,14566652,https://www.sofascore.com/football/match/14566652,false,club,,1733.0,1733.0
+Lamine Yamal,2025-10-21,FC Barcelona,home,Olympiacos FC,UEFA Champions League,goal,68,6-1,14566652,https://www.sofascore.com/football/match/14566652,false,club,,1733.0,1733.0
+Lamine Yamal,2025-11-02,FC Barcelona,home,Elche,LaLiga,goal,9,3-1,14083095,https://www.sofascore.com/football/match/14083095,false,club,,1703.0,1703.0
+Lamine Yamal,2025-11-05,FC Barcelona,away,Club Brugge KV,UEFA Champions League,goal,61,3-3,14566745,https://www.sofascore.com/football/match/14566745,false,club,,1823.0,1823.0
+Lamine Yamal,2025-11-09,FC Barcelona,away,Celta Vigo,LaLiga,goal,45+4,2-4,14083115,https://www.sofascore.com/football/match/14083115,false,club,,1747.0,1747.0
+Lamine Yamal,2025-11-22,FC Barcelona,home,Athletic Club,LaLiga,assist,45+3,4-0,14083130,https://www.sofascore.com/football/match/14083130,false,club,,1766.0,1766.0
+Lamine Yamal,2025-11-22,FC Barcelona,home,Athletic Club,LaLiga,assist,90,4-0,14083130,https://www.sofascore.com/football/match/14083130,false,club,,1766.0,1766.0
+Lamine Yamal,2025-11-29,FC Barcelona,home,Deportivo Alavés,LaLiga,goal,8,3-1,14083144,https://www.sofascore.com/football/match/14083144,false,club,,1721.0,1721.0
+Lamine Yamal,2025-11-29,FC Barcelona,home,Deportivo Alavés,LaLiga,assist,90+3,3-1,14083144,https://www.sofascore.com/football/match/14083144,false,club,,1721.0,1721.0
+Lamine Yamal,2025-12-06,FC Barcelona,away,Real Betis,LaLiga,goal,59,3-5,14083155,https://www.sofascore.com/football/match/14083155,false,club,,1829.0,1829.0
+Lamine Yamal,2025-12-09,FC Barcelona,home,Eintracht Frankfurt,UEFA Champions League,assist,53,2-1,14566651,https://www.sofascore.com/football/match/14566651,false,club,,1736.0,1736.0
+Lamine Yamal,2025-12-16,FC Barcelona,away,Guadalajara,Copa del Rey,assist,90,0-2,15200513,https://www.sofascore.com/football/match/15200513,false,club,,1674.0,1674.0
+Lamine Yamal,2025-12-21,FC Barcelona,away,Villarreal,LaLiga,goal,63,0-2,14083190,https://www.sofascore.com/football/match/14083190,false,club,,1805.0,1805.0
+Lamine Yamal,2026-01-15,FC Barcelona,away,Real Racing Club,Copa del Rey,goal,90+5,0-2,15327735,https://www.sofascore.com/football/match/15327735,false,club,,1686.0,1686.0
+Lamine Yamal,2026-01-18,FC Barcelona,away,Real Sociedad,LaLiga,assist,70,2-1,14083237,https://www.sofascore.com/football/match/14083237,false,club,,1776.0,1776.0
+Lamine Yamal,2026-01-25,FC Barcelona,home,Real Oviedo,LaLiga,goal,73,3-0,14083117,https://www.sofascore.com/football/match/14083117,false,club,,1646.0,1646.0
+Lamine Yamal,2026-01-28,FC Barcelona,home,FC København,UEFA Champions League,assist,48,4-1,14566653,https://www.sofascore.com/football/match/14566653,false,club,,1697.0,1697.0
+Lamine Yamal,2026-01-28,FC Barcelona,home,FC København,UEFA Champions League,goal,60,4-1,14566653,https://www.sofascore.com/football/match/14566653,false,club,,1697.0,1697.0
+Lamine Yamal,2026-01-31,FC Barcelona,away,Elche,LaLiga,goal,6,1-3,14083244,https://www.sofascore.com/football/match/14083244,false,club,,1703.0,1703.0
+Lamine Yamal,2026-02-03,FC Barcelona,away,Albacete Balompié,Copa del Rey,goal,39,1-2,15396361,https://www.sofascore.com/football/match/15396361,false,club,,1584.0,1584.0
+Lamine Yamal,2026-02-07,FC Barcelona,home,Mallorca,LaLiga,goal,61,3-0,14083269,https://www.sofascore.com/football/match/14083269,false,club,,1720.0,1720.0
+Lamine Yamal,2026-02-22,FC Barcelona,home,Levante UD,LaLiga,assist,81,3-0,14083567,https://www.sofascore.com/football/match/14083567,false,club,,1710.0,1710.0
+Lamine Yamal,2026-02-28,FC Barcelona,home,Villarreal,LaLiga,goal,28,4-1,14081789,https://www.sofascore.com/football/match/14081789,false,club,,1805.0,1805.0
+Lamine Yamal,2026-02-28,FC Barcelona,home,Villarreal,LaLiga,goal,37,4-1,14081789,https://www.sofascore.com/football/match/14081789,false,club,,1805.0,1805.0
+Lamine Yamal,2026-02-28,FC Barcelona,home,Villarreal,LaLiga,goal,69,4-1,14081789,https://www.sofascore.com/football/match/14081789,false,club,,1805.0,1805.0
+Lamine Yamal,2026-03-03,FC Barcelona,home,Atlético Madrid,Copa del Rey,assist,29,3-0,15497189,https://www.sofascore.com/football/match/15497189,false,club,,1916.0,1916.0
+Lamine Yamal,2026-03-07,FC Barcelona,away,Athletic Club,LaLiga,goal,68,0-1,14083597,https://www.sofascore.com/football/match/14083597,false,club,,1766.0,1766.0
+Lamine Yamal,2026-03-10,FC Barcelona,away,Newcastle United,UEFA Champions League,goal,90+6,1-1,15631347,https://www.sofascore.com/football/match/15631347,false,club,,1865.0,1865.0
+Lamine Yamal,2026-03-18,FC Barcelona,home,Newcastle United,UEFA Champions League,goal,45+7,7-2,15631368,https://www.sofascore.com/football/match/15631368,false,club,,1865.0,1865.0
+Lamine Yamal,2026-03-18,FC Barcelona,home,Newcastle United,UEFA Champions League,assist,61,7-2,15631368,https://www.sofascore.com/football/match/15631368,false,club,,1865.0,1865.0
+Lamine Yamal,2026-04-11,FC Barcelona,home,Espanyol,LaLiga,assist,9,4-1,14083113,https://www.sofascore.com/football/match/14083113,false,club,,1696.0,1696.0
+Lamine Yamal,2026-04-11,FC Barcelona,home,Espanyol,LaLiga,assist,25,4-1,14083113,https://www.sofascore.com/football/match/14083113,false,club,,1696.0,1696.0
+Lamine Yamal,2026-04-11,FC Barcelona,home,Espanyol,LaLiga,goal,87,4-1,14083113,https://www.sofascore.com/football/match/14083113,false,club,,1696.0,1696.0
+Lamine Yamal,2026-04-14,FC Barcelona,away,Atlético Madrid,UEFA Champions League,goal,4,1-2,15632089,https://www.sofascore.com/football/match/15632089,false,club,,1916.0,1916.0
+Lamine Yamal,2026-04-22,FC Barcelona,home,Celta Vigo,LaLiga,goal,40,1-0,14083261,https://www.sofascore.com/football/match/14083261,false,club,,1747.0,1747.0
+Lamine Yamal,2026-06-21,Spain,home,Saudi Arabia,FIFA World Cup,goal,10,4-0,15186840,https://www.sofascore.com/football/match/15186840,false,country,55,,55
+Michael Olise,2025-08-22,FC Bayern München,home,RB Leipzig,Bundesliga,goal,27,6-0,14056037,https://www.sofascore.com/football/match/14056037,false,club,,1829.0,1829.0
+Michael Olise,2025-08-22,FC Bayern München,home,RB Leipzig,Bundesliga,goal,42,6-0,14056037,https://www.sofascore.com/football/match/14056037,false,club,,1829.0,1829.0
+Michael Olise,2025-08-27,FC Bayern München,away,SV Wehen Wiesbaden,DFB Pokal,goal,51,2-3,14015651,https://www.sofascore.com/football/match/14015651,false,club,,1463.0,1463.0
+Michael Olise,2025-08-30,FC Bayern München,away,FC Augsburg,Bundesliga,goal,48,2-3,14065075,https://www.sofascore.com/football/match/14065075,false,club,,1731.0,1731.0
+Michael Olise,2025-09-05,France,away,Ukraine,World Cup Qual. UEFA,goal,10,0-2,13233466,https://www.sofascore.com/football/match/13233466,false,country,36,,36
+Michael Olise,2025-09-13,FC Bayern München,home,Hamburger SV,Bundesliga,assist,62,5-0,14057801,https://www.sofascore.com/football/match/14057801,false,club,,1680.0,1680.0
+Michael Olise,2025-09-26,FC Bayern München,home,SV Werder Bremen,Bundesliga,assist,22,4-0,14065088,https://www.sofascore.com/football/match/14065088,false,club,,1694.0,1694.0
+Michael Olise,2025-09-30,FC Bayern München,away,Pafos FC,UEFA Champions League,assist,15,1-5,14566965,https://www.sofascore.com/football/match/14566965,false,club,,1591.0,1591.0
+Michael Olise,2025-09-30,FC Bayern München,away,Pafos FC,UEFA Champions League,assist,31,1-5,14566965,https://www.sofascore.com/football/match/14566965,false,club,,1591.0,1591.0
+Michael Olise,2025-09-30,FC Bayern München,away,Pafos FC,UEFA Champions League,goal,68,1-5,14566965,https://www.sofascore.com/football/match/14566965,false,club,,1591.0,1591.0
+Michael Olise,2025-10-18,FC Bayern München,home,Borussia Dortmund,Bundesliga,goal,78,2-1,14065109,https://www.sofascore.com/football/match/14065109,false,club,,1889.0,1889.0
+Michael Olise,2025-10-25,FC Bayern München,away,Borussia M'gladbach,Bundesliga,assist,69,0-3,14065125,https://www.sofascore.com/football/match/14065125,false,club,,1667.0,1667.0
+Michael Olise,2025-10-29,FC Bayern München,away,1. FC Köln,DFB Pokal,goal,72,1-4,14586192,https://www.sofascore.com/football/match/14586192,false,club,,1655.0,1655.0
+Michael Olise,2025-11-13,France,home,Ukraine,World Cup Qual. UEFA,goal,76,4-0,13233655,https://www.sofascore.com/football/match/13233655,false,country,36,,36
+Michael Olise,2025-11-22,FC Bayern München,home,SC Freiburg,Bundesliga,assist,22,6-2,14065148,https://www.sofascore.com/football/match/14065148,false,club,,1794.0,1794.0
+Michael Olise,2025-11-22,FC Bayern München,home,SC Freiburg,Bundesliga,goal,45+2,6-2,14065148,https://www.sofascore.com/football/match/14065148,false,club,,1794.0,1794.0
+Michael Olise,2025-11-22,FC Bayern München,home,SC Freiburg,Bundesliga,assist,55,6-2,14065148,https://www.sofascore.com/football/match/14065148,false,club,,1794.0,1794.0
+Michael Olise,2025-11-22,FC Bayern München,home,SC Freiburg,Bundesliga,assist,78,6-2,14065148,https://www.sofascore.com/football/match/14065148,false,club,,1794.0,1794.0
+Michael Olise,2025-11-22,FC Bayern München,home,SC Freiburg,Bundesliga,goal,84,6-2,14065148,https://www.sofascore.com/football/match/14065148,false,club,,1794.0,1794.0
+Michael Olise,2025-12-06,FC Bayern München,away,VfB Stuttgart,Bundesliga,assist,11,0-5,14065168,https://www.sofascore.com/football/match/14065168,false,club,,1827.0,1827.0
+Michael Olise,2025-12-06,FC Bayern München,away,VfB Stuttgart,Bundesliga,assist,88,0-5,14065168,https://www.sofascore.com/football/match/14065168,false,club,,1827.0,1827.0
+Michael Olise,2025-12-09,FC Bayern München,home,Sporting CP,UEFA Champions League,assist,65,3-1,14566572,https://www.sofascore.com/football/match/14566572,false,club,,1884.0,1884.0
+Michael Olise,2025-12-21,FC Bayern München,away,1. FC Heidenheim,Bundesliga,goal,32,0-4,14062150,https://www.sofascore.com/football/match/14062150,false,club,,1633.0,1633.0
+Michael Olise,2026-01-11,FC Bayern München,home,VfL Wolfsburg,Bundesliga,assist,30,8-1,14062145,https://www.sofascore.com/football/match/14062145,false,club,,1683.0,1683.0
+Michael Olise,2026-01-11,FC Bayern München,home,VfL Wolfsburg,Bundesliga,goal,50,8-1,14062145,https://www.sofascore.com/football/match/14062145,false,club,,1683.0,1683.0
+Michael Olise,2026-01-11,FC Bayern München,home,VfL Wolfsburg,Bundesliga,goal,76,8-1,14062145,https://www.sofascore.com/football/match/14062145,false,club,,1683.0,1683.0
+Michael Olise,2026-01-14,FC Bayern München,away,1. FC Köln,Bundesliga,assist,45+5,1-3,14062167,https://www.sofascore.com/football/match/14062167,false,club,,1655.0,1655.0
+Michael Olise,2026-01-17,FC Bayern München,away,RB Leipzig,Bundesliga,assist,67,1-5,14062170,https://www.sofascore.com/football/match/14062170,false,club,,1829.0,1829.0
+Michael Olise,2026-01-17,FC Bayern München,away,RB Leipzig,Bundesliga,assist,82,1-5,14062170,https://www.sofascore.com/football/match/14062170,false,club,,1829.0,1829.0
+Michael Olise,2026-01-17,FC Bayern München,away,RB Leipzig,Bundesliga,assist,85,1-5,14062170,https://www.sofascore.com/football/match/14062170,false,club,,1829.0,1829.0
+Michael Olise,2026-01-17,FC Bayern München,away,RB Leipzig,Bundesliga,goal,88,1-5,14062170,https://www.sofascore.com/football/match/14062170,false,club,,1829.0,1829.0
+Michael Olise,2026-01-21,FC Bayern München,home,Royale Union Saint-Gilloise,UEFA Champions League,assist,52,2-0,14566573,https://www.sofascore.com/football/match/14566573,false,club,,1807.0,1807.0
+Michael Olise,2026-01-24,FC Bayern München,home,FC Augsburg,Bundesliga,assist,23,1-2,14062179,https://www.sofascore.com/football/match/14062179,false,club,,1731.0,1731.0
+Michael Olise,2026-01-31,FC Bayern München,away,Hamburger SV,Bundesliga,assist,46,2-2,14062191,https://www.sofascore.com/football/match/14062191,false,club,,1680.0,1680.0
+Michael Olise,2026-02-08,FC Bayern München,home,TSG Hoffenheim,Bundesliga,assist,62,5-1,14062188,https://www.sofascore.com/football/match/14062188,false,club,,1713.0,1713.0
+Michael Olise,2026-02-11,FC Bayern München,home,RB Leipzig,DFB Pokal,assist,67,2-0,15193712,https://www.sofascore.com/football/match/15193712,false,club,,1829.0,1829.0
+Michael Olise,2026-03-10,FC Bayern München,away,Atalanta,UEFA Champions League,goal,22,1-6,15631361,https://www.sofascore.com/football/match/15631361,false,club,,1812.0,1812.0
+Michael Olise,2026-03-10,FC Bayern München,away,Atalanta,UEFA Champions League,assist,25,1-6,15631361,https://www.sofascore.com/football/match/15631361,false,club,,1812.0,1812.0
+Michael Olise,2026-03-10,FC Bayern München,away,Atalanta,UEFA Champions League,goal,64,1-6,15631361,https://www.sofascore.com/football/match/15631361,false,club,,1812.0,1812.0
+Michael Olise,2026-03-14,FC Bayern München,away,Bayer 04 Leverkusen,Bundesliga,assist,69,1-1,14065183,https://www.sofascore.com/football/match/14065183,false,club,,1882.0,1882.0
+Michael Olise,2026-03-21,FC Bayern München,home,1. FC Union Berlin,Bundesliga,goal,43,4-0,14065193,https://www.sofascore.com/football/match/14065193,false,club,,1682.0,1682.0
+Michael Olise,2026-03-26,France,away,Brazil,International Friendly Games,assist,65,1-2,15341366,https://www.sofascore.com/football/match/15341366,true,country,6,,6
+Michael Olise,2026-04-04,FC Bayern München,away,SC Freiburg,Bundesliga,assist,90+2,2-3,14065206,https://www.sofascore.com/football/match/14065206,false,club,,1794.0,1794.0
+Michael Olise,2026-04-07,FC Bayern München,away,Real Madrid,UEFA Champions League,assist,46,1-2,15632084,https://www.sofascore.com/football/match/15632084,false,club,,1980.0,1980.0
+Michael Olise,2026-04-11,FC Bayern München,away,FC St. Pauli,Bundesliga,goal,54,0-5,14065219,https://www.sofascore.com/football/match/14065219,false,club,,1617.0,1617.0
+Michael Olise,2026-04-15,FC Bayern München,home,Real Madrid,UEFA Champions League,goal,90+4,4-3,15632088,https://www.sofascore.com/football/match/15632088,false,club,,1980.0,1980.0
+Michael Olise,2026-04-25,FC Bayern München,away,1. FSV Mainz 05,Bundesliga,goal,73,3-4,14065235,https://www.sofascore.com/football/match/14065235,false,club,,1738.0,1738.0
+Michael Olise,2026-04-28,FC Bayern München,away,Paris Saint-Germain,UEFA Champions League,goal,41,5-4,15632632,https://www.sofascore.com/football/match/15632632,false,club,,1969.0,1969.0
+Michael Olise,2026-05-02,FC Bayern München,home,1. FC Heidenheim,Bundesliga,assist,57,3-3,14065232,https://www.sofascore.com/football/match/14065232,false,club,,1633.0,1633.0
+Michael Olise,2026-05-02,FC Bayern München,home,1. FC Heidenheim,Bundesliga,goal,90+10,3-3,14065232,https://www.sofascore.com/football/match/14065232,false,club,,1633.0,1633.0
+Michael Olise,2026-05-09,FC Bayern München,away,VfL Wolfsburg,Bundesliga,goal,56,0-1,14065251,https://www.sofascore.com/football/match/14065251,false,club,,1683.0,1683.0
+Michael Olise,2026-06-08,France,home,Northern Ireland,International Friendly Games,goal,43,3-1,16130149,https://www.sofascore.com/football/match/16130149,true,country,64,,64
+Michael Olise,2026-06-08,France,home,Northern Ireland,International Friendly Games,goal,49,3-1,16130149,https://www.sofascore.com/football/match/16130149,true,country,64,,64
+Michael Olise,2026-06-08,France,home,Northern Ireland,International Friendly Games,goal,74,3-1,16130149,https://www.sofascore.com/football/match/16130149,true,country,64,,64
+Michael Olise,2026-06-16,France,home,Senegal,FIFA World Cup,assist,66,3-1,15186501,https://www.sofascore.com/football/match/15186501,false,country,18,,18
+Michael Olise,2026-06-22,France,home,Iraq,FIFA World Cup,assist,14,3-0,15186769,https://www.sofascore.com/football/match/15186769,false,country,63,,63
+Michael Olise,2026-06-22,France,home,Iraq,FIFA World Cup,assist,66,3-0,15186769,https://www.sofascore.com/football/match/15186769,false,country,63,,63
+Michael Olise,2026-06-30,France,home,Sweden,FIFA World Cup,assist,53,3-0,12812995,https://www.sofascore.com/football/match/12812995,false,country,34,,34
+Michael Olise,2026-06-30,France,home,Sweden,FIFA World Cup,assist,74,3-0,12812995,https://www.sofascore.com/football/match/12812995,false,country,34,,34
+Michael Olise,2026-07-18,France,home,England,FIFA World Cup,assist,48,4-6,12813003,https://www.sofascore.com/football/match/12813003,false,country,4,,4
+Michael Olise,2026-07-18,France,home,England,FIFA World Cup,assist,66,4-6,12813003,https://www.sofascore.com/football/match/12813003,false,country,4,,4
+Ousmane Dembélé,2025-08-13,Paris Saint-Germain,home,Tottenham Hotspur,UEFA Super Cup,assist,90+4,2-2,13960989,https://www.sofascore.com/football/match/13960989,false,club,,1799.0,1799.0
+Ousmane Dembélé,2025-08-30,Paris Saint-Germain,away,Toulouse,Ligue 1,assist,7,3-6,14065705,https://www.sofascore.com/football/match/14065705,false,club,,1700.0,1700.0
+Ousmane Dembélé,2025-08-30,Paris Saint-Germain,away,Toulouse,Ligue 1,goal,31,3-6,14065705,https://www.sofascore.com/football/match/14065705,false,club,,1700.0,1700.0
+Ousmane Dembélé,2025-08-30,Paris Saint-Germain,away,Toulouse,Ligue 1,goal,51,3-6,14065705,https://www.sofascore.com/football/match/14065705,false,club,,1700.0,1700.0
+Ousmane Dembélé,2025-10-21,Paris Saint-Germain,away,Bayer 04 Leverkusen,UEFA Champions League,goal,66,2-7,14566704,https://www.sofascore.com/football/match/14566704,false,club,,1882.0,1882.0
+Ousmane Dembélé,2025-12-06,Paris Saint-Germain,home,Stade Rennais,Ligue 1,assist,90+1,5-0,14064445,https://www.sofascore.com/football/match/14064445,false,club,,1762.0,1762.0
+Ousmane Dembélé,2025-12-20,Paris Saint-Germain,away,Vendée Fontenay Foot,Coupe de France,assist,25,0-4,15171822,https://www.sofascore.com/football/match/15171822,false,?,,,
+Ousmane Dembélé,2025-12-20,Paris Saint-Germain,away,Vendée Fontenay Foot,Coupe de France,goal,34,0-4,15171822,https://www.sofascore.com/football/match/15171822,false,?,,,
+Ousmane Dembélé,2026-01-04,Paris Saint-Germain,home,Paris FC,Ligue 1,goal,53,2-1,14064451,https://www.sofascore.com/football/match/14064451,false,club,,1699.0,1699.0
+Ousmane Dembélé,2026-01-08,Paris Saint-Germain,home,Olympique de Marseille,Trophée des Champions,goal,13,2-2,15024680,https://www.sofascore.com/football/match/15024680,false,club,,1759.0,1759.0
+Ousmane Dembélé,2026-01-16,Paris Saint-Germain,home,Lille,Ligue 1,goal,13,3-0,14064464,https://www.sofascore.com/football/match/14064464,false,club,,1780.0,1780.0
+Ousmane Dembélé,2026-01-16,Paris Saint-Germain,home,Lille,Ligue 1,goal,64,3-0,14064464,https://www.sofascore.com/football/match/14064464,false,club,,1780.0,1780.0
+Ousmane Dembélé,2026-01-20,Paris Saint-Germain,away,Sporting CP,UEFA Champions League,assist,79,2-1,14566854,https://www.sofascore.com/football/match/14566854,false,club,,1884.0,1884.0
+Ousmane Dembélé,2026-01-23,Paris Saint-Germain,away,Auxerre,Ligue 1,assist,79,0-1,14064470,https://www.sofascore.com/football/match/14064470,false,club,,1645.0,1645.0
+Ousmane Dembélé,2026-02-08,Paris Saint-Germain,home,Olympique de Marseille,Ligue 1,goal,12,5-0,14064485,https://www.sofascore.com/football/match/14064485,false,club,,1759.0,1759.0
+Ousmane Dembélé,2026-02-08,Paris Saint-Germain,home,Olympique de Marseille,Ligue 1,goal,37,5-0,14064485,https://www.sofascore.com/football/match/14064485,false,club,,1759.0,1759.0
+Ousmane Dembélé,2026-02-08,Paris Saint-Germain,home,Olympique de Marseille,Ligue 1,assist,66,5-0,14064485,https://www.sofascore.com/football/match/14064485,false,club,,1759.0,1759.0
+Ousmane Dembélé,2026-02-13,Paris Saint-Germain,away,Stade Rennais,Ligue 1,goal,71,3-1,14064499,https://www.sofascore.com/football/match/14064499,false,club,,1762.0,1762.0
+Ousmane Dembélé,2026-03-11,Paris Saint-Germain,home,Chelsea,UEFA Champions League,goal,40,5-2,15631341,https://www.sofascore.com/football/match/15631341,false,club,,1895.0,1895.0
+Ousmane Dembélé,2026-03-21,Paris Saint-Germain,away,Nice,Ligue 1,assist,81,0-4,14167944,https://www.sofascore.com/football/match/14167944,false,club,,1673.0,1673.0
+Ousmane Dembélé,2026-03-26,France,away,Brazil,International Friendly Games,assist,32,1-2,15341366,https://www.sofascore.com/football/match/15341366,true,country,6,,6
+Ousmane Dembélé,2026-04-03,Paris Saint-Germain,home,Toulouse,Ligue 1,goal,23,3-1,14167955,https://www.sofascore.com/football/match/14167955,false,club,,1700.0,1700.0
+Ousmane Dembélé,2026-04-03,Paris Saint-Germain,home,Toulouse,Ligue 1,goal,33,3-1,14167955,https://www.sofascore.com/football/match/14167955,false,club,,1700.0,1700.0
+Ousmane Dembélé,2026-04-14,Paris Saint-Germain,away,Liverpool FC,UEFA Champions League,goal,72,0-2,15632087,https://www.sofascore.com/football/match/15632087,false,club,,1932.0,1932.0
+Ousmane Dembélé,2026-04-14,Paris Saint-Germain,away,Liverpool FC,UEFA Champions League,goal,90+1,0-2,15632087,https://www.sofascore.com/football/match/15632087,false,club,,1932.0,1932.0
+Ousmane Dembélé,2026-04-22,Paris Saint-Germain,home,Nantes,Ligue 1,assist,50,3-0,14167914,https://www.sofascore.com/football/match/14167914,false,club,,1568.0,1568.0
+Ousmane Dembélé,2026-04-28,Paris Saint-Germain,home,FC Bayern München,UEFA Champions League,assist,33,5-4,15632632,https://www.sofascore.com/football/match/15632632,false,club,,2038.0,2038.0
+Ousmane Dembélé,2026-04-28,Paris Saint-Germain,home,FC Bayern München,UEFA Champions League,goal,45+5,5-4,15632632,https://www.sofascore.com/football/match/15632632,false,club,,2038.0,2038.0
+Ousmane Dembélé,2026-04-28,Paris Saint-Germain,home,FC Bayern München,UEFA Champions League,goal,58,5-4,15632632,https://www.sofascore.com/football/match/15632632,false,club,,2038.0,2038.0
+Ousmane Dembélé,2026-05-06,Paris Saint-Germain,away,FC Bayern München,UEFA Champions League,goal,3,1-1,15632634,https://www.sofascore.com/football/match/15632634,false,club,,2038.0,2038.0
+Ousmane Dembélé,2026-05-13,Paris Saint-Germain,away,RC Lens,Ligue 1,assist,29,0-2,15889331,https://www.sofascore.com/football/match/15889331,false,club,,1809.0,1809.0
+Ousmane Dembélé,2026-05-30,Paris Saint-Germain,home,Arsenal,UEFA Champions League,goal,65,1-1,15632636,https://www.sofascore.com/football/match/15632636,false,club,,2045.0,2045.0
+Ousmane Dembélé,2026-06-22,France,home,Iraq,FIFA World Cup,assist,54,3-0,15186769,https://www.sofascore.com/football/match/15186769,false,country,63,,63
+Ousmane Dembélé,2026-06-22,France,home,Iraq,FIFA World Cup,goal,66,3-0,15186769,https://www.sofascore.com/football/match/15186769,false,country,63,,63
+Ousmane Dembélé,2026-06-26,France,away,Norway,FIFA World Cup,goal,7,1-4,15186537,https://www.sofascore.com/football/match/15186537,false,country,19,,19
+Ousmane Dembélé,2026-06-26,France,away,Norway,FIFA World Cup,goal,20,1-4,15186537,https://www.sofascore.com/football/match/15186537,false,country,19,,19
+Ousmane Dembélé,2026-06-26,France,away,Norway,FIFA World Cup,goal,32,1-4,15186537,https://www.sofascore.com/football/match/15186537,false,country,19,,19
+Ousmane Dembélé,2026-06-30,France,home,Sweden,FIFA World Cup,assist,45,3-0,12812995,https://www.sofascore.com/football/match/12812995,false,country,34,,34
+Ousmane Dembélé,2026-07-09,France,home,Morocco,FIFA World Cup,goal,66,2-0,12813016,https://www.sofascore.com/football/match/12813016,false,country,7,,7
+Ousmane Dembélé,2026-07-18,France,home,England,FIFA World Cup,goal,90+6,4-6,12813003,https://www.sofascore.com/football/match/12813003,false,country,4,,4
