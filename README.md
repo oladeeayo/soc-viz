@@ -20,6 +20,27 @@ the output is identical on any machine.
 
 ## Visuals
 
+### [What Time Are Goals Scored?](goal-timing/) · 29 Oct 2026
+
+![Goal timing by league](goal-timing/figures/goal_timing_premier-league.png)
+
+One image per league — Premier League, La Liga, Serie A, Bundesliga and
+Ligue 1 — binning every 2026/27 league goal into **0–15 · 16–30 · 31–45 ·
+45+** for the first half and **46–60 · 61–75 · 76–90 · 90+** for the second,
+with a hatched **1st Half** / **2nd Half** total row closing each block. Every
+bar carries the raw count and its share of all league goals, the percentage
+set four points smaller than the number.
+
+The binning rules are explicit: anything **over 45 in the first half is
+first-half stoppage** (`45+`), anything **over 90 in the second half is
+second-half stoppage** (`90+`), and a second-half goal clocked at 45 is ranked
+into `46-60`. Bars are painted in each league's official brand colour, the
+league badge sits beside the title, and the subtitle carries the GW span that
+the data actually covers (GW 1–7 to 1–10 depending on the league).
+
+[Run the notebook](goal-timing/goal_timing.ipynb) ·
+data: FotMob + WhoScored event data, 1,232 goals from 402 league matches
+
 ### [Harry Kane — Goal-Mouth Placement](kane-goal-mouth/) · 28 Oct 2026
 
 ![Harry Kane goal-mouth placement](kane-goal-mouth/figures/kane_goal_map.png)
@@ -60,6 +81,14 @@ data: Sofascore incidents, Club Elo, FIFA ranking (July 2026)
 
 ```
 soc-viz/
+├── goal-timing/
+│   ├── goal_times.csv          # one row per goal (1,232, 2026/27 league matches)
+│   ├── league_meta.csv         # GW span, matches, goals, badge, brand colour
+│   ├── fonts/                  # DM Sans + Karla (SIL OFL)
+│   ├── logos/                  # the five league badges (FotMob)
+│   ├── figures/                # one goal-timing chart per league
+│   ├── goal_timing.ipynb
+│   └── goal_timing.py          # same code, runnable as a script
 ├── kane-goal-mouth/
 │   ├── goals.csv                  # one row per goal (Opta event data)
 │   ├── fonts/                     # DM Sans + Karla (SIL OFL)
@@ -81,3 +110,4 @@ Viz by **[@oladeeayo](https://github.com/oladeeayo)**.
 Fonts: [DM Sans](https://fonts.google.com/specimen/DM+Sans) and
 [Karla](https://fonts.google.com/specimen/Karla), SIL Open Font License.
 Player images: FotMob. Data: WhoScored, Sofascore, Club Elo and FIFA rankings.
+League badges: FotMob; league brand colours follow each league's own identity.

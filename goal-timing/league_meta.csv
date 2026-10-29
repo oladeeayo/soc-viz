@@ -1,0 +1,6 @@
+league,league_name,sub_name,logo,gw_first,gw_last,matches_played,goals,bar_color
+ENG_1_premier-league,Premier League,the Premier League,premier-league.png,1,8,80,222,#3D195B
+ESP_1_la-liga,La Liga,La Liga,la-liga.png,1,10,99,298,#FF4B44
+ITA_1_serie-a,Serie A,Serie A,serie-a.png,1,9,88,274,#0032A0
+GER_1_bundesliga,Bundesliga,Bundesliga,bundesliga.png,1,7,63,224,#D10214
+FRA_1_ligue-1,Ligue 1,Ligue 1,ligue-1.png,1,8,72,214,#091C3E
