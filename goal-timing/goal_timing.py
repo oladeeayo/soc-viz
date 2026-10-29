@@ -10,6 +10,11 @@
 # second-half goal clocked at 45 is ranked into that window); anything **over
 # 90 in the second half is second-half stoppage** (`90+`).
 #
+# Clock: WhoScored floors its raw `minute` (a goal at 30:32 is stored as 30),
+# so the Top 5 Leagues builder reports the displayed clock — 30:32 becomes 31'
+# and stoppage goals become 45+N / 90+N, verified against FotMob on all 1,121
+# comparable goals with zero disagreements. Data source: **WhoScored**.
+#
 # Bars use each league's official brand colour. Data: `goal_times.csv` (one row
 # per goal, 2026/27 league matches only). Fonts: DM Sans + Karla in `fonts/`.
 # League badges in `logos/`.
@@ -168,7 +173,7 @@ def render(meta, rows, out_png):
              fontsize=13.5, color=INK, va="center")
     fig.text(0.94, 0.048,
              f"2026/27 season, league matches only  |  {matches_played} matches  "
-             f"|  {total} goals",
+             f"|  {total} goals  |  Data Source: WhoScored",
              fontproperties=BODY, fontsize=11.5, color=INK_SOFT, va="center",
              ha="right")
 

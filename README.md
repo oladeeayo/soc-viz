@@ -38,8 +38,16 @@ into `46-60`. Bars are painted in each league's official brand colour, the
 league badge sits beside the title, and the subtitle carries the GW span that
 the data actually covers (GW 1–7 to 1–10 depending on the league).
 
+**Clock correction.** Opta's raw `minute` is *whole elapsed minutes* — a
+floor — so a goal at 30:32 was stored as 30 even though WhoScored and FotMob
+both show **31'**. The Top 5 Leagues builder now reports the displayed clock
+(`+1` once a second has ticked over, stoppage capped to `45+N` / `90+N`),
+which was checked against FotMob's shotmap on **all 1,121 comparable goals
+with zero disagreements**. Every figure and `goal_times.csv` were rebuilt
+from the corrected data, so stoppage goals now read `90+1`, `90+6`, `90+9`.
+
 [Run the notebook](goal-timing/goal_timing.ipynb) ·
-data: FotMob + WhoScored event data, 1,232 goals from 402 league matches
+Data source: **WhoScored** — 1,232 goals from 402 league matches
 
 ### [Harry Kane — Goal-Mouth Placement](kane-goal-mouth/) · 28 Oct 2026
 
@@ -82,7 +90,7 @@ data: Sofascore incidents, Club Elo, FIFA ranking (July 2026)
 ```
 soc-viz/
 ├── goal-timing/
-│   ├── goal_times.csv          # one row per goal (1,232, 2026/27 league matches)
+│   ├── goal_times.csv          # one row per goal (1,232, displayed clock, +added_minute)
 │   ├── league_meta.csv         # GW span, matches, goals, badge, brand colour
 │   ├── fonts/                  # DM Sans + Karla (SIL OFL)
 │   ├── logos/                  # the five league badges (FotMob)
