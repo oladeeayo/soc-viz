@@ -53,12 +53,22 @@ Data source: **WhoScored** — 1,232 goals from 402 league matches
 
 ![Harry Kane goal-mouth placement](kane-goal-mouth/figures/kane_goal_map.png)
 
-Where Kane's **74 goals** from his 2025/26 campaign actually crossed the line:
+Where Kane's **73 goals** from his 2025/26 campaign actually crossed the line:
 a regulation 7.32 × 2.44 m goal frame, a 3 × 6 grid shaded by share of goals
 with the percentage and the raw count in each cell, a body-part breakdown
-(**50** right foot · **14** headers · **10** left foot) and the penalty /
-non-penalty split. Bottom corners dominate — 16.2 % bottom-left, 17.6 %
+(**49** right foot · **14** headers · **10** left foot) and the penalty /
+non-penalty split. Bottom corners dominate — 16.4 % bottom-left, 17.8 %
 bottom-right — and the middle of the goal is nearly empty.
+
+**Why 73 and not 74.** The notebook used to plot every row that happened to
+carry goal-mouth coordinates, with no season filter, and `goals.csv` tags one
+row wrongly: the World Cup qualifier against Andorra (2025-06-07) sat in
+`2025/26` even though it was played in June 2025, alongside the Senegal
+friendly that was correctly tagged `2024/25`. Season tags follow an
+August-start season, so that row now reads 2024/25, and the notebook filters
+explicitly on `season == "2025/26"` rather than on who has coordinates. The
+2026 World Cup, played June–July 2026 straight after the season ended, stays
+inside 2025/26.
 
 The interesting work is in the calibration: Opta's goal-mouth coordinates are
 not in metres, so the frame is anchored with the community conversion
@@ -98,7 +108,7 @@ soc-viz/
 │   ├── goal_timing.ipynb
 │   └── goal_timing.py          # same code, runnable as a script
 ├── kane-goal-mouth/
-│   ├── goals.csv                  # one row per goal (Opta event data)
+│   ├── goals.csv                  # 75 rows: 73 in 2025/26 + 2 June-2025 internationals
 │   ├── fonts/                     # DM Sans + Karla (SIL OFL)
 │   ├── figures/                   # kane_goal_map.png and .pdf
 │   └── kane_goal_map.ipynb
